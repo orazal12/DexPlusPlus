@@ -1,5 +1,5 @@
 # Dex++
-[![Latest Release](https://img.shields.io/github/v/release/AZYsGithub/DexPlusPlus?label=latest)](https://github.com/AZYsGithub/DexPlusPlus/releases/latest) [![GitHub commit activity](https://github.com/AZYsGithub/DexPlusPlus/commits/main/README.md)]()
+[![Latest Release](https://img.shields.io/github/v/release/AZYsGithub/DexPlusPlus?label=latest)](https://github.com/AZYsGithub/DexPlusPlus/releases/latest) [![GitHub commit activity](https://github.com/AZYsGithub/DexPlusPlus/commits/main/)]()
 
 ![PreviewImage](/preview.png)
 
