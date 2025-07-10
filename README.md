@@ -1,5 +1,6 @@
 # Dex++
 [![Latest Release](https://img.shields.io/github/v/release/AZYsGithub/DexPlusPlus?label=latest)](https://github.com/AZYsGithub/DexPlusPlus/releases/latest)
+
 ![PreviewImage](/preview.png)
 
 Dex++ is a revival of Moon's Dex, made to fulfill some Moon's Dex prophecy.
