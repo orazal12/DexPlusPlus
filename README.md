@@ -2,7 +2,7 @@
 ![PreviewImage](/preview.png)
 Dex++ is a revival of Moon's Dex, made to fulfill some Moon's Dex prophecy.
 
-## Script
+## Latest Version Script
 ```lua
 loadstring(game:HttpGet("https://github.com/AZYsGithub/DexPlusPlus/releases/latest/download/out.lua"))()
 ```
