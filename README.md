@@ -42,6 +42,9 @@ Every donation is highly apreciated, this is compeletely optional.
 - Konstant Decompiler
 - [Universal Synapse Save Instance (USSI)](https://github.com/luau/UniversalSynSaveInstance)
 
+## License
+![MIT License](https://img.shields.io/badge/MIT-License)
+
 ## Credits
 [Chillz](https://github.com/AZYsGithub) (Dex++ Maintainer)
 
