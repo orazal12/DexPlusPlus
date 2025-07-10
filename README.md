@@ -4,7 +4,7 @@ Dex++ is a revival of Moon's Dex, made to fulfill some Moon's Dex prophecy.
 
 ## Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DexPlusPlus/refs/heads/master/out.lua"))()
+loadstring(game:HttpGet("https://github.com/AZYsGithub/DexPlusPlus/releases/latest/download/out.lua"))()
 ```
 
 ## What's the difference between Dex and Dex++?
