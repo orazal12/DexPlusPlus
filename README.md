@@ -36,8 +36,8 @@ Every donation is highly apreciated, this is compeletely optional.
 - 0xf66604a05c5a5372b1480a0b79f86865dccbd7db (ETH)
 
 ## Third Party Components
-Konstant Decompiler
-[Universal Synapse Save Instance (USSI)](https://github.com/luau/UniversalSynSaveInstance)
+- Konstant Decompiler
+- [Universal Synapse Save Instance (USSI)](https://github.com/luau/UniversalSynSaveInstance)
 
 ## Credits
 [Chillz](https://github.com/AZYsGithub) (Dex++ Maintainer)
