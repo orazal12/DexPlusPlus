@@ -43,7 +43,7 @@ Every donation is highly apreciated, this is compeletely optional.
 - [Universal Synapse Save Instance (USSI)](https://github.com/luau/UniversalSynSaveInstance)
 
 ## License
-![MIT License](https://img.shields.io/badge/MIT-License)
+[![MIT License](https://img.shields.io/badge/MIT-License-green)](https://github.com/AZYsGithub/DexPlusPlus/blob/main/LICENSE)
 
 ## Credits
 [Chillz](https://github.com/AZYsGithub) (Dex++ Maintainer)
