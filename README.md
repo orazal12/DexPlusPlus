@@ -8,7 +8,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DexPlusPlu
 ```
 
 ## What's the difference between Dex and Dex++?
-Since the original Dex is the last release and Moon have discontinued it, it still has some missing features such as "Click part to select".
+Since the original Dex is the last release and Moon have discontinued it, it still has some missing features.
 Dex++ is a fork of Moon's Dex and still be maintained actively.
 Here are the features that were added/fixed in Dex++
 - Uses Konstant as fallback decompiler
