@@ -51,6 +51,6 @@ Every donation is highly apreciated, this is compeletely optional.
 
 [Cazan](https://github.com/Cazzanos) (For Helping To Work On Model Viewer)
 
-[Moon](https://github.com/LorekeeperZinnia/Dex) (Creator)
+[Moon](https://github.com/LorekeeperZinnia/Dex) (Dex Explorer)
 
-[Toon](https://github.com/Toon-arch) (Click part to select and IY's Dex source, because some module sources were merged to the PR)
+[Toon](https://github.com/Toon-arch) (Click part to select and IY's Dex source, because some module sources were merged to the project)
