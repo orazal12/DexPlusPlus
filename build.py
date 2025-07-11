@@ -1,7 +1,11 @@
 import os
 
-embedStr = "local selection\nlocal nodes = {}\n\nlocal oldgame = game\nlocal game = workspace.Parent\nlocal EmbeddedModules = {\n"
+headerText = open("header.lua","r")
+embedStr = headerText.read() + "\n\nlocal EmbeddedModules = {\n"
+headerText.close()
+
 files = os.listdir("modules")
+
 
 def readfile(path):
     file = open(path,"r")
