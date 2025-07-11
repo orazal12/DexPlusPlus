@@ -13,7 +13,7 @@ For specific versions, go to [releases](https://github.com/AZYsGithub/DexPlusPlu
 Since the original Dex is the last release and Moon have discontinued it, it still has some missing features.
 Here are the features that were added/fixed in Dex++
 - Uses Konstant as fallback decompiler (for shitsploits who doesn't have it)
-> 'getscriptbytecode' is required
+    > 'getscriptbytecode' is required
 - Uses [USSI](https://github.com/luau/UniversalSynSaveInstance/tree/main) as fallback saveinstance
 - Mobile Input Support (Window drag, resizing works fully on touch)
 - Console Output
