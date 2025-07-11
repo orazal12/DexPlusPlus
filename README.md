@@ -1,9 +1,7 @@
 # Dex++
-[![Latest Release](https://img.shields.io/github/v/release/AZYsGithub/DexPlusPlus?label=latest)](https://github.com/AZYsGithub/DexPlusPlus/releases/latest)
+![Preview](https://raw.githubusercontent.com/AZYsGithub/DexPlusPlus/main/preview.png)
 
-![PreviewImage](/preview.png)
-
-Dex++ is a revival of Moon's Dex, made to fulfill some Moon's Dex prophecy.
+Dex++ is a maintained revival of Moon's Dex, made to fulfill some Moon's Dex prophecy.
 
 ## Latest Version Script
 ```lua
@@ -13,14 +11,14 @@ For specific versions, go to [releases](https://github.com/AZYsGithub/DexPlusPlu
 
 ## What's the difference between Dex and Dex++?
 Since the original Dex is the last release and Moon have discontinued it, it still has some missing features.
-Dex++ is a fork of Moon's Dex and still be maintained actively.
 Here are the features that were added/fixed in Dex++
-- Uses Konstant as fallback decompiler
+- Uses Konstant as fallback decompiler (for shitsploits who doesn't have it)
+> 'getscriptbytecode' is required
 - Uses [USSI](https://github.com/luau/UniversalSynSaveInstance/tree/main) as fallback saveinstance
-- Mobile Input Support
+- Mobile Input Support (Window drag, resizing works fully on touch)
 - Console Output
-- Model Viewer
-- Revived Save Instance
+- Model Viewer (basically 3D Preview)
+- Revived Save Instance (original Dex doesnt have it, but does in Dex 2.0)
 - Click part to select (thx Toon :3)
 - CodeFrame cursor offset (where cursor on textbox were not aligned properly)
 
@@ -40,17 +38,14 @@ Every donation is highly apreciated, this is compeletely optional.
 - 0xf66604a05c5a5372b1480a0b79f86865dccbd7db (ETH)
 
 ## Third Party Components
-- Konstant Decompiler
+- Konstant Decompiler (Let me know)
 - [Universal Synapse Save Instance (USSI)](https://github.com/luau/UniversalSynSaveInstance)
 
 ## License
 [![MIT License](https://img.shields.io/badge/MIT-License-green)](https://github.com/AZYsGithub/DexPlusPlus/blob/main/LICENSE)
 
 ## Credits
-[Chillz](https://github.com/AZYsGithub) (Dex++ Maintainer)
-
-[Cazan](https://github.com/Cazzanos) (For Helping To Work On Model Viewer)
-
-[Moon](https://github.com/LorekeeperZinnia/Dex) (Dex Explorer)
-
-[Toon](https://github.com/Toon-arch) (Click part to select and IY's Dex source, because some module sources were merged to the project)
+- [Chillz](https://github.com/AZYsGithub) – Dex++ Maintainer  
+- [Cazan](https://github.com/Cazzanos) – Helped me develop the Model Viewer  
+- [Moon](https://github.com/LorekeeperZinnia/Dex) – Original Dex Explorer  
+- [Toon](https://github.com/Toon-arch) – "Click part to select" & IY Dex module source and parts
